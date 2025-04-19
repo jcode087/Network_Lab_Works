@@ -1,7 +1,7 @@
 # **Lab Report: Introduction to the OSI Model**
 
-**Author:** *Your Name*  
-**Date Completed:** *Insert Date*  
+**Author:** *Joshua Ayeni*  
+**Date Completed:** *19/04/2025*  
 **Lab Title:** Introduction to the OSI Model  
 **Lab Duration:** ~1 Hour  
 
@@ -58,7 +58,10 @@ Each section involved a series of guided steps using a virtual environment to ob
 
 We explored the seven layers of the OSI model and their individual purposes. I noted how layers like the Physical and Data-Link layers focus on transmission and addressing, while higher layers (like Application and Presentation) are more user-focused.
 
-📸 *Insert Screenshot: Diagram of OSI Model*  
+*Diagram of OSI Model: ![Exercise_1a](Lab_1/Images/Exercise_1a.png)* 
+
+*TCP/OSI Table: ![Exercise_1b](Lab_1/Images/Exercise_1b.png)*
+
 📌 *Key Takeaway:* The OSI model is theoretical but foundational for understanding real-world network operations.
 
 ---
@@ -109,11 +112,27 @@ This lab gave me hands-on experience with the OSI model, helping bridge the gap 
 
 | Description                          | Screenshot Placeholder           |
 |--------------------------------------|----------------------------------|
-| OSI Model Diagram                    | ![Insert image here](path)       |
-| Ethernet Adapter Settings            | ![Insert image here](path)       |
-| ipconfig /all Output                 | ![Insert image here](path)       |
-| netstat TCP/UDP Output               | ![Insert image here](path)       |
-| Task Manager showing Applications    | ![Insert image here](path)       |
+| Structure and Functionality of the OSI Model   1           | ![Exercise_1a](Images/Exercise_1a.png)       |
+| Structure and Functionality of the OSI Model   2        | ![Exercise_1b](Images/Exercise_1b.png)       |
+| Data Encapsulation and Decapsulation 1                 | ![Exercise_2a](Images/Exercise_2a.png)       |
+| Data Encapsulation and Decapsulation 2               | ![Exercise_2b](Images/Exercise_2b.png)       |
+| Data Encapsulation and Decapsulation 3  | ![Exercise_2c](Images/Exercise_2c.png)       |
+| Identifying Components in Layers 1-3                  | ![Exercise_3a](Images/Exercise_3a.png)       |
+| Identifying Components in Layers 1-3           | ![Exercise_3b](Images/Exercise_3b.png)       |
+| Identifying Components in Layers 1-3               | ![Exercise_3c](Images/Exercise_3c.png)       |
+| Identifying Components in Layers 1-3               | ![Exercise_3d](Images/Exercise_3d.png)       |
+| Identifying Components in Layers 1-3   | ![Exercise_3e](Images/Exercise_3e.png)       |
+| Identifying Components in Layers 1-3                 | ![Exercise_3f](Images/Exercise_3f.png)       |
+| Identifying Components in Layers 1-3         | ![Exercise_3g](Images/Exercise_3g.png)       |
+| Identifying Components in Layers 1-3                | ![Exercise_3h](Images/Exercise_3h.png)       |
+| Identifying Components in Layers 1-3               | ![Exercise_3i](Images/Exercise_3i.png)       |
+| Identifying Components in Layers 1-3  | ![Exercise_3j](Images/Exercise_3j.png)       |
+| Identifying Components in Layers 1-3  | ![Exercise_3k](Images/Exercise_3k.png)       |
+| Identifying Components in Layers 1-3                 | ![Exercise_3l](Images/Exercise_3l.png)       |
+| Identifying Components in Layers 4-7            | ![Exercise_4a](/Images/Exercise_4a.png)       |
+| Identifying Components in Layers 4-7               | ![Exercise_4b](Images/Exercise_4b.png)       |
+| Identifying Components in Layers 4-7            | ![Exercise_4c](Images/Exercise_4c.png)       |
+| Identifying Components in Layers 4-7    | ![Exercise_4d](Images/Exercise_4d.png)   
 
 ---
 
