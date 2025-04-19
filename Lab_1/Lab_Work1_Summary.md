@@ -58,9 +58,9 @@ Each section involved a series of guided steps using a virtual environment to ob
 
 We explored the seven layers of the OSI model and their individual purposes. I noted how layers like the Physical and Data-Link layers focus on transmission and addressing, while higher layers (like Application and Presentation) are more user-focused.
 
-*Diagram of OSI Model: ![Exercise_1a](Lab_1/Images/Exercise_1a.png)* 
+📸 *Diagram of OSI Model: ![Exercise_1a](Images/Exercise_1a.png)* 
 
-*TCP/OSI Table: ![Exercise_1b](Lab_1/Images/Exercise_1b.png)*
+📸 *TCP/OSI Table: ![Exercise_1b](Images/Exercise_1b.png)*
 
 📌 *Key Takeaway:* The OSI model is theoretical but foundational for understanding real-world network operations.
 
@@ -70,7 +70,9 @@ We explored the seven layers of the OSI model and their individual purposes. I n
 
 This part explained how data is wrapped (encapsulated) as it travels from the Application layer down to the Physical layer, and how it's unwrapped (decapsulated) when received.
 
-📸 *Insert Screenshot: Diagram or Example of Encapsulation Steps*  
+📸 *Data Encapsulation Steps: ![Exercise_2a](Images/Exercise_2a.png)*
+📸 *Data Decapsulation Steps A: ![Exercise_2b](Images/Exercise_2b.png)*
+📸 *Data Decapsulation Steps B: ![Exercise_2c](Images/Exercise_2c.png)*
 📌 *Key Takeaway:* Each layer adds or removes headers/footers, enabling structured communication and error handling.
 
 ---
@@ -83,7 +85,19 @@ Using PLABWIN10, we:
 - Viewed MAC addresses and drivers (Layer 2)  
 - Assigned IP addresses and configured routing (Layer 3)
 
-📸 *Insert Screenshots: Adapter Properties, ARP Table, Routing Table*  
+📸 *Network Layer: ![Exercise_3a](Images/Exercise_3a.png)*
+📸 *Network Layer (Active): ![Exercise_3b](Images/Exercise_3b.png)*
+📸 *Network Driver: ![Exercise_3c](Images/Exercise_3c.png)*
+📸 *Network Config *CLI Interface* showing Logical/Physical Address: ![Exercise_3d](Images/Exercise_3d.png)*
+📸 *CLI Interface showing ARP Table: ![Exercise_3e](Images/Exercise_3e.png)*
+📸 *CLI Interface showing IP Details: ![Exercise_3f](Images/Exercise_3f.png)*
+📸 *Manually Updating TCP/IPv4 details on Ethernet 2: ![Exercise_3g](Images/Exercise_3g.png)*
+📸 *Automatic Prompt after change: ![Exercise_3h](Images/Exercise_3h.png)*
+📸 *CLI Interface showing updated IP: ![Exercise_3i](Images/Exercise_3i.png)*
+📸 *CLI Interface Adding IP route Manually: ![Exercise_3j](Images/Exercise_3j.png)*
+📸 *CLI Interface Route Print: ![Exercise_3k](Images/Exercise_3k.png)*
+📸 *CLI Interface IP Ping Test: ![Exercise_3l](Images/Exercise_3l.png)*
+
 📌 *Key Takeaway:* These layers form the foundation of device-to-device communication and routing.
 
 ---
@@ -97,7 +111,10 @@ We explored how:
 
 Commands like `netstat` revealed active connections and protocols.
 
-📸 *Insert Screenshots: netstat output, Task Manager with Edge running*  
+📸 *CLI Interface Netstat Command for TCP protocol: ![Exercise_4a](Images/Exercise_4a.png)*
+📸 *CLI Interface Netstat Command Showing TCP protocol Traffic due to opened browser and page: ![Exercise_4b](Images/Exercise_4b.png)*
+📸 *CLI Interface Netstat Command for UDP protocol: ![Exercise_4c](Images/Exercise_4c.png)*
+📸 *Task Manager showing background processes for open applications: ![Exercise_4d](Images/Exercise_4d.png)*
 📌 *Key Takeaway:* Layers 4-7 handle the logic and interaction of services running over the network.
 
 ---
