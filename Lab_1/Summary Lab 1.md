@@ -211,3 +211,4 @@ This lab gave me hands-on experience with the OSI model, helping bridge the gap 
 - Practice Labs: Introduction to OSI Model  
 - CompTIA Network+ (N10-008) objectives  
 - Official OSI documentation from ISO
+- Media Edit: OBS Studio, Microsft 365 Co-pilot Suite.
